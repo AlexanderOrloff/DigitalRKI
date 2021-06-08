@@ -15,4 +15,9 @@
 
 Но ....
 
+<p><img alt="Image" title="icon" src="https://github.com/AlexanderOrloff/DigitalRKI/blob/main/%D0%BF%D0%BE%D0%BF%D1%8B%D1%82%D0%BA%D0%B01.jpg?raw=true" /></p>
+
 На каком-то этапе что-то пошло не так). При попытке сохранить всё это у  все зависло. Я не знаю, было ли это связано с моим картофельным ноутбуком (мой хороший в ремонте :__( ) или моей плохой привычкой не сохранчться в процессе,  но так или иначе я решил продолжить попыткой номер два.
+
+
+<p><img alt="Image" title="icon" src="https://github.com/AlexanderOrloff/DigitalRKI/blob/main/%D0%BF%D0%BE%D0%BF%D1%8B%D1%82%D1%8C%D0%BA%D0%B0%202.jpg?raw=true" /></p>
